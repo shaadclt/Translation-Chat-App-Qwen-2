@@ -34,7 +34,7 @@ jupyter notebook
 - Input your text, select the desired action (Translate to English, Translate to Chinese, Translate to Japanese, or Chat), and get the output text along with an audio file.
 
 ## License
-This project is licensed under the [MIT License](License.txt). See the LICENSE file for more details.
+This project is licensed under the [MIT License](LICENSE.txt). See the LICENSE file for more details.
 
 ## Acknowledgements
 - **Qwen/Qwen2-1.5B-Instruct** model by Hugging Face.

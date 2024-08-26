@@ -2,7 +2,7 @@
 This project is a Jupyter Notebook-based application that allows users to translate text into different languages (English, Chinese, and Japanese) or chat with an AI model. The notebook utilizes the Qwen/Qwen2-1.5B-Instruct language model for natural language processing tasks and the gTTS library for text-to-speech conversion.
 
 ## Features
-- **Translate Text**: Translate input text into English, Chinese, or Japanese within the notebook.
+- **Translate Text**: Translate input text into English, Chinese, or Japanese.
 - **Chat Functionality**: Chat with the AI model by selecting the "Chat" option.
 - **Text-to-Speech**: Convert the translated or generated text into speech and download the audio file.
 
